@@ -1,0 +1,14 @@
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\bin\Debug\netcoreapp2.2\TodoTaskApi.deps.json
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\bin\Debug\netcoreapp2.2\TodoTaskApi.runtimeconfig.json
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\bin\Debug\netcoreapp2.2\TodoTaskApi.runtimeconfig.dev.json
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\bin\Debug\netcoreapp2.2\TodoTaskApi.dll
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\obj\Debug\netcoreapp2.2\TodoTaskApi.csprojAssemblyReference.cache
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\obj\Debug\netcoreapp2.2\TodoTaskApi.csproj.CoreCompileInputs.cache
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\obj\Debug\netcoreapp2.2\TodoTaskApi.RazorAssemblyInfo.cache
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\obj\Debug\netcoreapp2.2\TodoTaskApi.RazorAssemblyInfo.cs
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\obj\Debug\netcoreapp2.2\TodoTaskApi.AssemblyInfoInputs.cache
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\obj\Debug\netcoreapp2.2\TodoTaskApi.AssemblyInfo.cs
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\obj\Debug\netcoreapp2.2\TodoTaskApi.RazorTargetAssemblyInfo.cache
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\bin\Debug\netcoreapp2.2\TodoTaskApi.pdb
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\obj\Debug\netcoreapp2.2\TodoTaskApi.dll
+W:\latihan\tesCoding\TodoTaskApi\TodoTaskApi\obj\Debug\netcoreapp2.2\TodoTaskApi.pdb
